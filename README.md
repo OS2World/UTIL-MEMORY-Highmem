@@ -12,6 +12,7 @@ COMPILE TOOLS
 AUTHORS
 ===============
 * Yuri Dario
+* Takayuki 'January June' Suwa
 
 LINKS
 ===============
